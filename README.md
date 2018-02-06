@@ -1,1 +1,1 @@
-El primer fichero del primer repositorio de David
+El primer fichero del primer repositorio de David para el MOOC "Gestión de proyectos Software con Git y GitHub"
